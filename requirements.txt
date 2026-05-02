@@ -1,0 +1,14 @@
+# Flight Delay Project - Python dependencies
+# COMP4381 - Spring 2026
+#
+# Only libraries that were taught in the course are listed here, in line
+# with Section 7 of the project brief.
+
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.12
+scikit-learn>=1.3
+requests>=2.31
+jupyter>=1.0
+notebook>=7.0
